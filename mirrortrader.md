@@ -14,7 +14,7 @@ On a high level, 3 different latyers will be required.
 
 **Trade execution node** This will allow an independent node operator to execute the trade function in the mirror trading contract when trade conditions are met. The node by default will watch for exdecuted trade transactions of the mirrored trader.
 
-**Javascript Mirror trader Library** To provide developer tooling for both the official and unofficial Synthetix exchanges interfaces, we will either provide a separate Javascript library for Synthetix mirror orders. A frontend JS GUI will be built for the use by the mirror traders.
+**Javascript mirror trader library** To provide developer tooling for both the official and unofficial Synthetix exchanges interfaces, we will either provide a separate Javascript library for Synthetix mirror orders. A frontend JS GUI will be built for the use by the mirror traders.
 
 Reference: 
 
@@ -32,7 +32,7 @@ None
 - 50 hours Javascript library and GUI
 - 25 hours Project management
 
-Total: 175 hours
+Total: 200 hours
 
 ## Price (EUR): 
 - ~~2500 EUR~~ PM & research at 50EUR / hour (voided as investment)
