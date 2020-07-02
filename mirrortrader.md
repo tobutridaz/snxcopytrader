@@ -10,6 +10,7 @@ Reference: [Wiki](https://en.wikipedia.org/wiki/Copy_trading)
 ## Additional information: 
 ### Solution:
 On a high level, 3 different latyers will be required.
+
 **Mirror trading contract**. This contract acts as an intermediary between the mirror trader and the trade execution node. 
 
 **Trade execution node** This will allow an independent node operator to execute the trade function in the mirror trading contract when trade conditions are met. The node by default will watch for exdecuted trade transactions of the mirrored trader.
