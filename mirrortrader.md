@@ -1,4 +1,4 @@
-# Synthetix Mirror trader
+# Synthetix Mirror Trader
 
 ## Description:
 Synthetix Mirror trader will provide the functionality of a watching executed-on-chain trades for a selected wallet address, and mirroring them according to the proportion between the mirrored investor's account and the mirror trader's allotted mirror trading funds.
@@ -35,7 +35,7 @@ None
 Total: 175 hours
 
 ## Price (EUR): 
-- 2500 EUR PM & research at 50EUR / hour (voided as investrment)
+- ~~2500 EUR~~ PM & research at 50EUR / hour (voided as investment)
 - 1050 EUR Development  at 7EUR / hour (junior)
 
 Total investment costs: 1050 EUR
