@@ -38,4 +38,4 @@ Total: 200 hours
 - ~~2500 EUR~~ PM & research at 50EUR / hour (voided as investment)
 - 1050 EUR Development  at 7EUR / hour (junior)
 
-Total investment costs: 1050 EUR
+Total investment costs: 1050 EUR 
