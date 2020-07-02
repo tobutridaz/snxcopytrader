@@ -1,0 +1,2 @@
+# snxcopytrader
+Synthetix Copytrader
