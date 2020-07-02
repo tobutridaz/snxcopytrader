@@ -14,7 +14,7 @@ On a high level, 3 different layers will be required.
 
 **Trade execution node** This will allow an independent node operator to execute the trade function in the mirror trading contract when trade conditions are met. The node by default will watch for exdecuted trade transactions of the mirrored trader.
 
-**Javascript mirror trader library** To provide developer tooling for both the official and unofficial Synthetix exchanges interfaces, we will either provide a separate Javascript library for Synthetix mirror orders. A frontend JS GUI will be built for the use by the mirror traders.
+**Javascript mirror trader library** To provide developer tooling for both the official and unofficial Synthetix exchanges interfaces. A frontend JS GUI will be built for the use by the mirror traders.
 
 Reference: 
 
