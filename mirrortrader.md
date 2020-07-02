@@ -1,7 +1,7 @@
 # Synthetix Mirror trader
 
 ## Description:
-Synthetix Mirror trader will provide the functionality of a watching executed-on-chain trades for a selected wallet address, and mirroring them according to the proportion between the copied investor's account and the copying trader's allotted copy trading funds.
+Synthetix Mirror trader will provide the functionality of a watching executed-on-chain trades for a selected wallet address, and mirroring them according to the proportion between the mirrored investor's account and the mirror trader's allotted mirror trading funds.
 
 ## Motivation: 
 Mirror trading functionality is the initial MVP functionality to a latter copy trading functionality, where copied traders will benefit through a to be defined fee model. Unlike with mirro trading, copy trading will  have the ability to disconnect a trader / copy trader relationship. 
